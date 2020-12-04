@@ -11,11 +11,11 @@
 
 #### Citizen Data Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Post-Election Vote by Mail Analysis](https://citizendata.com/news/post-election-vote-by-mail-analysis/)
 - [Election Day “Mirage”: Analysis](https://citizendata.com/news/election-day-mirage-analysis-2/)
 - [NEW: Presidential & Senatorial Survey Results](https://citizendata.com/news/new-presidential-senatorial-survey-results/)
 - [2020 Early Voting: Emerging Trends](https://citizendata.com/news/2020-early-voting-emerging-trends/)
 - [Vote by Mail Spotlight: Wisconsin](https://citizendata.com/news/vote-by-mail-spotlight-wisconsin/)
-- [OH & GA Vote by Mail Modeled Projections](https://citizendata.com/news/oh-ga-vote-by-mail-modeled-projections/)
 <!-- BLOG-POST-LIST:END -->
 
 [website]: https://citizendata.com/
