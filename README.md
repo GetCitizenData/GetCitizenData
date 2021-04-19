@@ -11,11 +11,11 @@
 
 #### Citizen Data Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Tracking Voter Support for Electoral Reforms](https://citizendata.com/news/tracking-voter-support-for-electoral-reforms/)
 - [Half of Americans Believe Election Results](https://citizendata.com/news/half-of-americans-believe-election-results/)
 - [Post-Election Vote by Mail Analysis](https://citizendata.com/news/post-election-vote-by-mail-analysis/)
 - [Election Day “Mirage”: Analysis](https://citizendata.com/news/election-day-mirage-analysis-2/)
 - [NEW: Presidential & Senatorial Survey Results](https://citizendata.com/news/new-presidential-senatorial-survey-results/)
-- [2020 Early Voting: Emerging Trends](https://citizendata.com/news/2020-early-voting-emerging-trends/)
 <!-- BLOG-POST-LIST:END -->
 
 [website]: https://citizendata.com/
