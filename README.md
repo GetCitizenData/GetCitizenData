@@ -11,11 +11,11 @@
 
 #### Citizen Data Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Countering QAnon’s Rise and Influence](https://citizendata.com/news/the_prevalence_of_qanon_on_the_right/)
 - [NYC MAYORAL POLL HIGHLY PREDICTIVE](https://citizendata.com/news/nyc-mayoral-poll-highly-predictive/)
 - [Tracking Voter Support for Electoral Reforms](https://citizendata.com/news/tracking-voter-support-for-electoral-reforms/)
 - [Half of Americans Believe Election Results](https://citizendata.com/news/half-of-americans-believe-election-results/)
 - [Post-Election Vote by Mail Analysis](https://citizendata.com/news/post-election-vote-by-mail-analysis/)
-- [Election Day “Mirage”: Analysis](https://citizendata.com/news/election-day-mirage-analysis-2/)
 <!-- BLOG-POST-LIST:END -->
 
 [website]: https://citizendata.com/
