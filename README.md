@@ -11,11 +11,11 @@
 
 #### Citizen Data Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Year in Review: A Note from Our CEO](https://citizendata.com/news/year-in-review-a-note-from-our-ceo/)
 - [American Right Democracy Roadmap Report](https://citizendata.com/news/disinformation-trumps-party-the-path-forward/)
 - [Where is the Right on Climate Change?](https://citizendata.com/news/where-is-the-right-on-climate-change/)
 - [Voting Access and the American Right](https://citizendata.com/news/voting-access-and-the-american-right/)
 - [Countering QAnon’s Rise and Influence](https://citizendata.com/news/the_prevalence_of_qanon_on_the_right/)
-- [NYC MAYORAL POLL HIGHLY PREDICTIVE](https://citizendata.com/news/nyc-mayoral-poll-highly-predictive/)
 <!-- BLOG-POST-LIST:END -->
 
 [website]: https://citizendata.com/
