@@ -11,11 +11,11 @@
 
 #### Citizen Data Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Meet Our Newest Team Members](https://citizendata.com/news/meet-our-newest-team-members/)
 - [February’s Citizen Data Point of the Month](https://citizendata.com/news/februarys-citizen-data-point-of-the-month/)
 - [Year in Review: A Note from Our CEO](https://citizendata.com/news/year-in-review-a-note-from-our-ceo/)
 - [American Right Democracy Roadmap Report](https://citizendata.com/news/disinformation-trumps-party-the-path-forward/)
 - [Where is the Right on Climate Change?](https://citizendata.com/news/where-is-the-right-on-climate-change/)
-- [Voting Access and the American Right](https://citizendata.com/news/voting-access-and-the-american-right/)
 <!-- BLOG-POST-LIST:END -->
 
 [website]: https://citizendata.com/
