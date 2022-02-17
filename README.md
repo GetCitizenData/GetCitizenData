@@ -11,7 +11,7 @@
 
 #### Citizen Data Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Meet Our Newest Team Members](https://citizendata.com/news/meet-our-newest-team-members/)
+- [Meet Our Growing Team](https://citizendata.com/news/meet-our-growing-team/)
 - [February’s Citizen Data Point of the Month](https://citizendata.com/news/februarys-citizen-data-point-of-the-month/)
 - [Year in Review: A Note from Our CEO](https://citizendata.com/news/year-in-review-a-note-from-our-ceo/)
 - [American Right Democracy Roadmap Report](https://citizendata.com/news/disinformation-trumps-party-the-path-forward/)
