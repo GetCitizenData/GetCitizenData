@@ -11,11 +11,11 @@
 
 #### Citizen Data Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [CEO Update: Emerging 2022 Priorities](https://citizendata.com/news/ceo-update-emerging-2022-priorities/)
 - [Americans Connect Ukraine to Fight for Global Democracy](https://citizendata.com/news/new-poll-americans-connect-ukraine-to-fight-for-global-democracy/)
 - [Citizen Data CEO Named 2022 Senior Practitioner Fellow at UChicago Center for Effective Government](https://citizendata.com/news/ceo-named-2022-senior-practitioner-fellow-at-uchicago-center-for-effective-government/)
 - [Meet Our Growing Team](https://citizendata.com/news/meet-our-growing-team/)
 - [February’s Citizen Data Point of the Month](https://citizendata.com/news/februarys-citizen-data-point-of-the-month/)
+- [Year in Review: A Note from Our CEO](https://citizendata.com/news/year-in-review-a-note-from-our-ceo/)
 <!-- BLOG-POST-LIST:END -->
 
 [website]: https://citizendata.com/
