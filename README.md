@@ -11,7 +11,7 @@
 
 #### Citizen Data Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Who are the Right Messengers to Counter Election Disinformation?](https://citizendata.com/news/who-are-the-right-messengers-to-counter-election-disinformation/)
+- [Who are Right Messengers to Counter Election Disinformation?](https://citizendata.com/news/who-are-right-messengers-to-counter-election-disinformation/)
 - [CEO Update: Emerging 2022 Priorities](https://citizendata.com/news/ceo-update-emerging-2022-priorities/)
 - [Americans Connect Ukraine to Fight for Global Democracy](https://citizendata.com/news/new-poll-americans-connect-ukraine-to-fight-for-global-democracy/)
 - [Citizen Data CEO Named 2022 Senior Practitioner Fellow at UChicago Center for Effective Government](https://citizendata.com/news/ceo-named-2022-senior-practitioner-fellow-at-uchicago-center-for-effective-government/)
