@@ -11,11 +11,11 @@
 
 #### Citizen Data Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Republicans More Likely to Preserve Democracy?](https://citizendata.com/news/republicans-more-likely-to-preserve-democracy/)
 - [Defusing Election Disinformation](https://citizendata.com/news/defusing-election-disinformation/)
 - [Meet Our Growing Team](https://citizendata.com/news/meet-our-growing-team-jun-2022/)
 - [How People View Democracy Today](https://citizendata.com/news/how-people-view-democracy-today/)
 - [Challenging Polarization Through Deliberation](https://citizendata.com/news/challenging-polarization-through-deliberation/)
-- [Who are Right Messengers to Counter Election Disinformation?](https://citizendata.com/news/who-are-right-messengers-to-counter-election-disinformation/)
 <!-- BLOG-POST-LIST:END -->
 
 [website]: https://citizendata.com/
