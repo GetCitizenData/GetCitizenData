@@ -11,11 +11,11 @@
 
 #### Citizen Data Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Elevating The Truth Around Jan. 6](https://citizendata.com/news/elevating-the-truth-around-jan-6/)
 - [Republicans More Likely to Preserve Democracy?](https://citizendata.com/news/republicans-more-likely-to-preserve-democracy/)
 - [Defusing Election Disinformation](https://citizendata.com/news/defusing-election-disinformation/)
 - [Meet Our Growing Team](https://citizendata.com/news/meet-our-growing-team-jun-2022/)
 - [How People View Democracy Today](https://citizendata.com/news/how-people-view-democracy-today/)
-- [Challenging Polarization Through Deliberation](https://citizendata.com/news/challenging-polarization-through-deliberation/)
 <!-- BLOG-POST-LIST:END -->
 
 [website]: https://citizendata.com/
