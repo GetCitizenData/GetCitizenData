@@ -11,11 +11,11 @@
 
 #### Citizen Data Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Is This The Third Party Moment?](https://citizendata.com/news/is-this-the-third-party-moment/)
 - [NEW Roe v. Wade Poll Shows Bipartisan Support for SCOTUS Reform](https://citizendata.com/news/new-roe-v-wade-poll-shows-bipartisan-support-for-scotus-reform/)
 - [Elevating The Truth Around Jan. 6](https://citizendata.com/news/elevating-the-truth-around-jan-6/)
 - [Republicans More Likely to Preserve Democracy?](https://citizendata.com/news/republicans-more-likely-to-preserve-democracy/)
 - [Defusing Election Disinformation](https://citizendata.com/news/defusing-election-disinformation/)
-- [Meet Our Growing Team](https://citizendata.com/news/meet-our-growing-team-jun-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 [website]: https://citizendata.com/
