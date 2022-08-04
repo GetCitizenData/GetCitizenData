@@ -11,7 +11,7 @@
 
 #### Citizen Data Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Kansas Abortion Results In Line With Issue Polling](https://citizendata.com/news/kansas-abortion-results-in-line-with-issue-polling/)
+- [Kansas Abortion Vote Predicted by Issue Polling](https://citizendata.com/news/kansas-abortion-results-in-line-with-issue-polling/)
 - [Is This The Third Party Moment?](https://citizendata.com/news/is-this-the-third-party-moment/)
 - [NEW Roe v. Wade Poll Shows Bipartisan Support for SCOTUS Reform](https://citizendata.com/news/new-roe-v-wade-poll-shows-bipartisan-support-for-scotus-reform/)
 - [Elevating The Truth Around Jan. 6](https://citizendata.com/news/elevating-the-truth-around-jan-6/)
