@@ -11,11 +11,11 @@
 
 #### Citizen Data Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Enhancing Election Trust](https://citizendata.com/news/enhancing-election-trust/)
 - [Kansas Abortion Vote Predicted by Issue Polling](https://citizendata.com/news/kansas-abortion-results-in-line-with-issue-polling/)
 - [Is This The Third Party Moment?](https://citizendata.com/news/is-this-the-third-party-moment/)
 - [NEW Roe v. Wade Poll Shows Bipartisan Support for SCOTUS Reform](https://citizendata.com/news/new-roe-v-wade-poll-shows-bipartisan-support-for-scotus-reform/)
 - [Elevating The Truth Around Jan. 6](https://citizendata.com/news/elevating-the-truth-around-jan-6/)
-- [Republicans More Likely to Preserve Democracy?](https://citizendata.com/news/republicans-more-likely-to-preserve-democracy/)
 <!-- BLOG-POST-LIST:END -->
 
 [website]: https://citizendata.com/
